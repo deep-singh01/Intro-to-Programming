@@ -1,5 +1,5 @@
-# CSE143
-UW CSE 143 - Prof. Stuart Reges (Fall '22)
+# CSE143: Intro to Programming
+Prof. Stuart Reges (FALL '22)
 
 Course Description: This course is a continuation of CSE142. While CSE142 focused on control issues (loops, conditionals,
 methods, parameter passing, etc), CSE143 focuses on data issues. Topics include: ADTs (abstract data types),
